@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ConnectFour {
     public static void main(String[] args) {
+        // Comment for Lab06
+        // GitHub test
         Scanner scanner = new Scanner(System.in);
         boolean roundOn = true;
         System.out.print("What would you like the height of the board to be? ");
